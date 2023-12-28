@@ -1,0 +1,45 @@
+section {
+    display: flex;
+    flex-direction: column;
+    gap: 2.5rem;
+
+    width: 19rem;
+
+}
+
+input, button {
+    border-radius: 2rem;
+    border-style: none;
+
+    font-size: 1rem;
+
+    height: 2.8rem;
+}
+
+input {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+button {
+    border: 3px solid var(--light-blue);
+    color: var(--light-blue);
+    font-weight: bold;
+
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: var(--light-blue);
+    color: var(--text-white);
+}
+
+small {
+    text-align: center;
+}
+
+p{
+    font-size: 2.1rem;
+    font-weight: bold;
+    color: var(--dark-blue);
+}

@@ -1,6 +1,6 @@
 header {
     background-color: var(--dark-blue);
-    color: var(--white-text);
+    color: var(--text-white);
 
     display: flex;
     flex-direction: row;

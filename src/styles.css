@@ -12,8 +12,9 @@
 /* Global color variables */
 :root {
    --dark-blue: #001F55;
-   --white-text: #FFFFFF;
+   --text-white: #FFFFFF;
    --page-background: #F2F2F2;
+   --light-blue: #6FA5FF;
 }
 
 body {
