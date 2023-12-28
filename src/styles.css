@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* Reseting the CSS */
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: Arial, Helvetica, sans-serif
+}
+
+/* Global color variables */
+:root {
+   --dark-blue: #001F55;
+   --white-text: #FFFFFF;
+   --page-background: #F2F2F2;
+}
+
+body {
+    background-color: var(--page-background);
+}

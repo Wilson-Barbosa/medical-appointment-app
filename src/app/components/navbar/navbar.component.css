@@ -1,0 +1,17 @@
+ul {
+    list-style: none;
+
+    display: flex;
+    flex-direction: row;
+
+    gap: 1rem;
+}
+
+a {
+    color: var(--white-text);
+    text-decoration: none;
+}
+
+li:hover{
+    border-bottom: 1px solid white;
+}

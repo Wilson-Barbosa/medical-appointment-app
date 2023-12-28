@@ -1,0 +1,12 @@
+header {
+    background-color: var(--dark-blue);
+    color: var(--white-text);
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
