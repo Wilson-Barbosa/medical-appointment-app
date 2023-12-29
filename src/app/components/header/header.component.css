@@ -4,9 +4,10 @@ header {
 
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding: 1rem;
+
+    box-shadow: 2px 2px 5px var(--shadow);
 }
